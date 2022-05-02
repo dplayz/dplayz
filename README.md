@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🧒 I'm: 15 Years Old
 - 🇵🇭 Nationality: Filipino
 - ♂️ My Pronouns are: He/Him
-- 👨‍💻 I do: Anything about [World of SteelCraft](https://worldofsteelcraft.tk)
-- ✍ I'm currently working at: Website rewrite as a static site
+- 👨‍💻 I do: Anything about [World of SteelCraft](https://worldofsteelcraft.tk) and my [website](https://dplayzgames06.tk)
+- ✍ I'm currently working at: Nothing latest notable
 - 💡 I do have knowledge about: HTML, CSS, little bit Javascript
-- 📬 You can reach me at [dp@dplayzgames06.tk](mailto:dp@dplayzgames06.tk)
+- 📬 You can reach me at [dp@dplayzgames06.tk](mailto:dp@dplayzgames06.tk), dpG06#8085 at Discord
