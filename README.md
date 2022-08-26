@@ -1,23 +1,10 @@
-<!--
-**dplayz/dplayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-#### Hello! I'm dplayz Games
-- 🧒 I'm: 15 Years Old
-- 🇵🇭 Nationality: Filipino
-- ♂️ My Pronouns are: He/Him
-- 👨‍💻 I do: Anything about [World of SteelCraft](https://worldofsteelcraft.tk) and my [website](https://dplayzgames06.tk)
-- ✍ I'm currently working at: Nothing latest notable
-- 💡 I do have knowledge about: HTML, CSS, little bit Javascript
-- 📬 You can reach me at [dp@dplayzgames06.tk](mailto:dp@dplayzgames06.tk), dpG06#8085 at Discord
+#### Hello! I'm dp!
+- 🧒 I'm 16 Years Old
+- 🇵🇭 A born and raised Filipino
+- ♂️ My Pronouns are He/Him
+- 👨‍💻 I do nothing but to study, develop my Hugo Theme, and administration works at [WoSC](https://worldofsteelcraft.tk)
+- 📚 I'm currently incoming Grade 11 Student, my strand and track is TVL-ICT(Programming)
+    - 📘 Part of our curriculum is to study Java and .Net Framework
+- 💡 I do have proper knowledge about HTML, CSS and a little bit Javascript
+- 📬 You can reach me at [dp@dplayzgames06.tk](mailto:dp@dplayzgames06.tk), dpG06#8085 at Discord, [m.me/dplayzgames06](https://m.me/dplayzgames06) on Facebook Messenger
+- ℹ️ More info on my [infopage](https://dplayzgames06.tk/info)
