@@ -10,7 +10,7 @@
 #### Projects
 | Name | Description
 |-|-|
-| WIP | Contents of it is Work in progress. Will do if I have time. Feel free to check `./repositories`
+| WIP | Contents of it is Work in progress. Will do if I have time. Feel free to check [`?tab=repositories`](https://github.com/dplayz?tab=repositories)
 
 
 <details>
